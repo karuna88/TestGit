@@ -12,6 +12,7 @@ import javax.naming.directory.SearchResult;
 
 public class LDAPClient {
 
+	//Develper2 commit
 	public void ldapTestConn() throws NamingException
 	{
 		final String ldapAdServer = "ldap://ldap.forumsys.com:389";
